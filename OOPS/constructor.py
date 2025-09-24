@@ -1,5 +1,3 @@
-
-
 class person:
     def __init__(self,id,fname,lname,age,prof):
         self.id=id
@@ -17,3 +15,7 @@ per1.printvalue()
 
 per2=person(202,'vijay','h',33,'python')
 per2.printvalue()
+
+# Added a new person
+per3=person(303,'anita','k',28,'datascience')
+per3.printvalue()
