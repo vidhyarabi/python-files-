@@ -1,0 +1,8 @@
+first_name=input('enter your first name: ')
+last_name=input('enter your last name: ')
+qualification=input('your qualification: ')
+location=input('your location: ')
+coll_name=input('your college name: ')
+print('my name is',first_name,last_name)
+print('iam coming from',location)
+print('i completed',qualification,'from',coll_name,"college")
